@@ -1,2 +1,2 @@
-# server-side-javascript
-# 1. óra
+# server-side-javascript - Node JS
+## 1. óra
