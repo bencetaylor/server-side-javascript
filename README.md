@@ -1,5 +1,5 @@
 # server-side-javascript - Node JS
-## 1. óra
+## 1. óra - Feladatok a félévre
 * Node JS Learn path végigkövetése / Beginner's video series to Node JS 
   * https://docs.microsoft.com/en-gb/training/paths/build-javascript-applications-nodejs/?WT.mc_id=nodebeginner-github-cxa
 * HW - https://docs.microsoft.com/hu-hu/shows/beginners-series-to-javascript/?wt.mc_id=nodebeginner-github-cxa
@@ -8,3 +8,6 @@
   * https://developer.mozilla.org/en-US/docs/Web/JavaScript
 * Fejlesztési feladat
   * TODO - definiálni
+
+## 2. óra
+ * Node JS Learn path
